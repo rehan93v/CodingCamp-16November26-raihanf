@@ -1,0 +1,16 @@
+{
+  "name": "todo-life-dashboard",
+  "version": "1.0.0",
+  "description": "A client-side personal productivity dashboard with greeting clock, Pomodoro timer, to-do list, quick links, and theme toggle. Framework-free: HTML, CSS, and vanilla JavaScript only.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "fast-check": "^3.19.0",
+    "jsdom": "^24.1.0",
+    "vitest": "^2.1.0"
+  }
+}
